@@ -67,4 +67,13 @@ nnoremap <leader>fh <cmd>Telescope help_tags<cr>
 `<leader>cA` - Adds comment delimiters to the end of line and goes into insert mode between them.
 
 `<leader>cu` - Uncomments the selected line(s).
+  
+## COC
+  
+```
+nmap <silent> gd <Plug>(coc-definition)
+nmap <silent> gD <Plug>(coc-implementation)
+nmap <silent> gr <Plug>(coc-references)
+```
+
 
