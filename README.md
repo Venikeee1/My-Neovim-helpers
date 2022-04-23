@@ -31,8 +31,8 @@ Currently I am using [vim-plug](https://github.com/junegunn/vim-plug) for instal
 Tool for search in files
 
 ```
-nnoremap <leader>ff <cmd>Telescope find_files<cr>
-nnoremap <leader>fg <cmd>Telescope live_grep<cr>
+nnoremap <leader>ff <cmd>Telescope find_files<cr> --- search by file name
+nnoremap <leader>fg <cmd>Telescope live_grep<cr> --- search throught files
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
 nnoremap <leader>fh <cmd>Telescope help_tags<cr>
 ```
