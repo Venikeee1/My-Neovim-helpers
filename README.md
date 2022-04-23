@@ -4,8 +4,11 @@
 
 `<Leader>` - default key is back slash `\`
 
-## NerdTree
-``
+## NerdTree [link](https://github.com/preservim/nerdtree#frequently-asked-questions)
+`<C-n>` - open
+`<C-t>` - toggle
+`<C-f>` - find
+`<leader>n` - focus
 
 ## NerdComments. [Doc](https://www.vim.org/scripts/script.php?script_id=1218)
 `<leader>cc` - Comment out the current line or text selected in visual mode
