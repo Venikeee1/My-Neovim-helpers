@@ -1,5 +1,6 @@
 # My-Neovim-helpers
 Currently I am using [vim-plug](https://github.com/junegunn/vim-plug) for installing NeoVim plugin
+To get make live grep work in Telescope [ripgrep](https://github.com/BurntSushi/ripgrep) should be installed
 
 ## Common allias
 
