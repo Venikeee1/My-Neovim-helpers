@@ -1,6 +1,5 @@
 # My-Neovim-helpers
 Currently I am using [vim-plug](https://github.com/junegunn/vim-plug) for installing NeoVim plugin
-To get make live grep work in Telescope [ripgrep](https://github.com/BurntSushi/ripgrep) should be installed
 
 ## Common allias
 
@@ -29,7 +28,7 @@ To get make live grep work in Telescope [ripgrep](https://github.com/BurntSushi/
 `<leader>tm #` - move tab
 
 ## Telescope
-Tool for search in files
+Tool for search in files. To get make live grep(search in files) working in Telescope [ripgrep](https://github.com/BurntSushi/ripgrep) should be installed
 
 ```
 nnoremap <leader>ff <cmd>Telescope find_files<cr> --- search by file name
