@@ -26,6 +26,10 @@
 
 `<leader>tm #` - move tab
 
+## Telescope
+Tool for search in files
+
+
 ## NerdTree [link](https://github.com/preservim/nerdtree#frequently-asked-questions)
 `<C-n>` - open
 
