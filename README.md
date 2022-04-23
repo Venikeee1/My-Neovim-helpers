@@ -68,7 +68,7 @@ nnoremap <leader>fh <cmd>Telescope help_tags<cr>
 
 `<leader>cu` - Uncomments the selected line(s).
   
-## COC
+## Conquer of compeletion(COC). [Doc](https://github.com/neoclide/coc.nvim)
   
 ```
 nmap <silent> gd <Plug>(coc-definition)
