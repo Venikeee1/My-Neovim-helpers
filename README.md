@@ -1,13 +1,13 @@
 # My-Neovim-helpers
 
-### Common allias
+## Common allias
 
 `<Leader>` - default key is back slash `\`
 
-### NerdTree
+## NerdTree
 ``
 
-### NerdComments
+## NerdComments
 `<leader>cc` - Comment out the current line or text selected in visual mode
 
 `<leader>cn` - Same as <leader>cc but forces nesting.
