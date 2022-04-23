@@ -4,10 +4,35 @@
 
 `<Leader>` - default key is back slash `\`
 
+## Vim tabs
+`:tabedit FILENAME` - open new tab
+
+`tabe` - open new file
+
+`<C-W>c` - close tab
+
+`:tabo` - close all others tabs
+
+`gt` and `gT` - switch between tans
+
+### My alliases
+`<leader>tn` - new tab
+
+`<leader>t<leader>` - next tab
+
+`<leader>to` - leave only one tab
+
+`<leader>tc` - close tab
+
+`<leader>tm #` - move tab
+
 ## NerdTree [link](https://github.com/preservim/nerdtree#frequently-asked-questions)
 `<C-n>` - open
+
 `<C-t>` - toggle
+
 `<C-f>` - find
+
 `<leader>n` - focus
 
 ## NerdComments. [Doc](https://www.vim.org/scripts/script.php?script_id=1218)
