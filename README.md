@@ -30,6 +30,13 @@ Currently I am using [vim-plug](https://github.com/junegunn/vim-plug) for instal
 ## Telescope
 Tool for search in files
 
+```
+nnoremap <leader>ff <cmd>Telescope find_files<cr>
+nnoremap <leader>fg <cmd>Telescope live_grep<cr>
+nnoremap <leader>fb <cmd>Telescope buffers<cr>
+nnoremap <leader>fh <cmd>Telescope help_tags<cr>
+```
+
 
 ## NerdTree [link](https://github.com/preservim/nerdtree#frequently-asked-questions)
 `<C-n>` - open
