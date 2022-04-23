@@ -7,7 +7,7 @@
 ## NerdTree
 ``
 
-## NerdComments
+## [NerdComments](https://www.vim.org/scripts/script.php?script_id=1218)
 `<leader>cc` - Comment out the current line or text selected in visual mode
 
 `<leader>cn` - Same as <leader>cc but forces nesting.
