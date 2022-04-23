@@ -1,5 +1,5 @@
 # My-Neovim-helpers
-Currently I am using [https://github.com/junegunn/vim-plug](vim-plug) for installing NeoVim plugin
+Currently I am using [vim-plug](https://github.com/junegunn/vim-plug) for installing NeoVim plugin
 
 ## Common allias
 
