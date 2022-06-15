@@ -4,4 +4,4 @@
 
 `whoami` - print user name
 
-`man <comand>` - get info about specific <comand> i.e `man ls`
+`man <comand>` - get info about specific "<comand>" i.e `man ls`
