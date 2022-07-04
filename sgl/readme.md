@@ -1,1 +1,1 @@
-![SQL quick hints](http://url/to/img.png)
+![SQL quick hints](./sql-tips.jpeg)
