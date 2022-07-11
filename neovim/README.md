@@ -14,7 +14,7 @@ Currently I am using [vim-plug](https://github.com/junegunn/vim-plug) for instal
 
 `:tabo` - close all others tabs
 
-`gt` and `gT` - switch between tans
+`gt` and `gT` - switch between tabs
 
 ### My alliases
 `<leader>tn` - new tab
