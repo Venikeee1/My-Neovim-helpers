@@ -41,9 +41,9 @@ nnoremap <leader>fh <cmd>Telescope help_tags<cr>
 ## NerdTree. [Doc](https://github.com/preservim/nerdtree#frequently-asked-questions)
 `<C-n>` - open
 
-`<C-t>` - toggle
+`<C-t>` - toggle NerdTree
 
-`<C-f>` - find
+`<C-f>` - find opened file in NerdTree
 
 `<leader>n` - focus
 
